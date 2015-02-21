@@ -1,0 +1,4 @@
+artur_natalia_movies:
+    resource: "@ArturNataliaMoviesBundle/Resources/config/routing.yml"
+    prefix:   /
+

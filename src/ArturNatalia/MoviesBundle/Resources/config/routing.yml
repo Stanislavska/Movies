@@ -1,0 +1,3 @@
+artur_natalia_movies_homepage:
+    path:     /
+    defaults: { _controller: ArturNataliaMoviesBundle:Default:index }
